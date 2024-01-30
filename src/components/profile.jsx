@@ -5,8 +5,8 @@ function Profile() {
   return (
 
     <section class="text-gray-600 body-font overflow-hidden" id="profile">
-      <div class="container px-5 py-36 mx-auto">
-        <div class="lg:w-4/5 mx-auto flex flex-wrap">
+      <div class="container px-5 py-36 mx-auto ">
+        <div class="lg:w-4/5 mx-auto flex flex-wrap ">
           <img
             src={Peta}
             alt="Gambar Desa"

@@ -28,18 +28,18 @@ function Header() {
             isMobileMenuOpen ? "block" : "hidden"
           } md:ml-auto md:flex md:items-center`}
         >
-          <a href="#profile" className="mr-5 hover:text-white font-bold mx-3">
+          <a href="#profile" className="mr-5 hover:text-[#60de9d] font-bold mx-3 transition duration-500">
             Profil
           </a>
-          <a href="#goals" className="mr-5 hover:text-white font-bold mx-3">
+          <a href="#goals" className="mr-5 hover:text-[#60de9d] font-bold mx-3 transition duration-500">
             Tujuan
           </a>
-          <a href="#structure" className="mr-5 hover:text-white font-bold mx-3">
+          <a href="#structure" className="mr-5 hover:text-[#60de9d] font-bold mx-3 transition duration-500">
             Struktur
           </a>
           <a
             href="#demographic"
-            className="mr-5 hover:text-white font-bold mx-3"
+            className="mr-5 hover:text-[#60de9d] font-bold mx-3"
           >
             Mengenai
           </a>
